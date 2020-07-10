@@ -1,6 +1,6 @@
 # The PyCantRead Project (In progress)
-The PyCantRead project is a python source code obfuscation project that obfuscates code **written with the imperative programming paradigm**. This is a "mini" project that 
-supplements my main project the [PyIris-backdoor project](https://github.com/angus-y/PyIris-backdoor) as such this obfuscater will obfuscate code following the imperative 
+The PyCantRead project is a (upcoming) python source code obfuscation project that obfuscates code **written with the imperative programming paradigm**. This is a "mini" project 
+that supplements my main project the [PyIris-backdoor project](https://github.com/angus-y/PyIris-backdoor) as such this obfuscater will obfuscate code following the imperative 
 programming paradigm which my project mainly implements NOT the object-oriented programming paradigm which many python projects are written in. 
 
 # Why should you use this project?
